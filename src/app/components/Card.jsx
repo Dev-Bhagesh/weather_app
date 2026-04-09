@@ -35,7 +35,7 @@ function Card({ data }) {
                     </section>
                 ) : (
                     <div className="card border w-full  md:w-2/4 p-6 shadow-lg text-center rounded-2xl">
-                        Search The City
+                        No city selected At
                     </div>
                 )
                 }
